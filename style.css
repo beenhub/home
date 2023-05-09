@@ -24,7 +24,7 @@ background-color: black;
     height: 100px;
 }
 
-.welcomeText {
+.mainText {
     text-align: center;
     font-size: 50px;
     color: white;
@@ -45,14 +45,14 @@ background-color: black;
 }
 
 .video {
-    background-color: aqua;
+    background-color: rgb(255, 153, 0);
     width: 400px;
     height: 200px;
 }
 
 .videoTextDiv {
     width: 400px;
-    height: 200px;
+    height: 25px;
 }
 
 .videoText {
@@ -60,3 +60,10 @@ background-color: black;
     color: white;
     font-family: 'Ubuntu', sans-serif;
 }
+
+.videoText2 {
+    font-size: 50px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
